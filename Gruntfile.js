@@ -1,6 +1,7 @@
 module.exports = function(grunt) {
   ///everything else will go in here!!!
 };
+// grunt
 grunt.initConfig({
   pkg: grunt.file.readJSON('package.json'),
   watch :{
